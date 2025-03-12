@@ -1,0 +1,32 @@
+# Ignorar pastas do sistema
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignorar pastas do usuário
+.vscode/
+node_modules/
+__pycache__/
+.env
+.venv
+.idea/
+*.ipynb_checkpoints/
+
+# Ignorar diretórios do Windows
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
